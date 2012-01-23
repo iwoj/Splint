@@ -1,8 +1,12 @@
-This project is devoted to making Gimp easier to use for people used to Photoshop.
+This project aims to make open source tools easier to use for creative professionals familiar with Adobe's Creative Suite and other canonical commercial systems.
 
 Installation
 ------------
 
+Photoshop/Gimp:
+
 Currently, the only file you need to install is the menurc file. Copy it into your ~/.gimp/ filder and you're good to go. This will give you most of the keybindings you're familiar with in Photoshop.
 
+Illustrator/Inkscape:
+Coming soon.
 
