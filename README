@@ -1,0 +1,8 @@
+This project is devoted to making Gimp easier to use for people used to Photoshop.
+
+Installation
+------------
+
+Currently, the only file you need to install is the menurc file. Copy it into your ~/.gimp/ filder and you're good to go. This will give you most of the keybindings you're familiar with in Photoshop.
+
+
