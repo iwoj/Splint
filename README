@@ -5,8 +5,13 @@ Installation
 
 Photoshop/Gimp:
 
-Currently, the only file you need to install is the gimp/menurc file. Copy it into your ~/.gimp/ filder and you're good to go. This will give you most of the keybindings you're familiar with in Photoshop.
+Adobe Photoshop has been the top software for image manipulation for the last twenty years. If you're looking for an open source alternative, Gimp is definitely the way to go.
+
+  http://gimp.org/
+
+Unfortunately, Gimp is pretty hard to use if you're used to Photoshop. One small change that can improve Gimp and make the transition easier is to modify it with PS-style key bindings. To get this feature, all you need to install is the gimp/menurc file. Copy it into your ~/.gimp/ filder and you're good to go.
 
 Illustrator/Inkscape:
+
 Coming soon.
 
