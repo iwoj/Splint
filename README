@@ -5,7 +5,7 @@ Installation
 
 Photoshop/Gimp:
 
-Currently, the only file you need to install is the menurc file. Copy it into your ~/.gimp/ filder and you're good to go. This will give you most of the keybindings you're familiar with in Photoshop.
+Currently, the only file you need to install is the gimp/menurc file. Copy it into your ~/.gimp/ filder and you're good to go. This will give you most of the keybindings you're familiar with in Photoshop.
 
 Illustrator/Inkscape:
 Coming soon.
