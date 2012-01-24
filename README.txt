@@ -13,9 +13,9 @@ Installation:
 
 On Mac OS X just double-click the "Install (Mac)" file.
 
-On all other platforms, copy the , launch Terminal, go to the directory where you found this README file and run:
+On all other platforms, copy src/<platform>/gimp/menurc to your gimp preferences directory. For example, on Linux:
 
-  cp -R gimp/* "~/Library/Application Support/Gimp/"
+  cp src/Linux/gimp/menurc ~/.gimp-2.6
 
 
 Illustrator -> Inkscape
