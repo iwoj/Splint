@@ -1,0 +1,5 @@
+Thanks to this guy for supplying a new starting point for the GIMP menurc file:
+
+http://epierce.freeshell.org/gimp/gimp_ps.php
+
+
