@@ -2,3 +2,6 @@ Take a more in-depth look at existing work to make GIMP more like PhotoShop and 
 eg:
 - http://gimpshop.com
 - http://www.smashingmagazine.com/2009/04/03/8-handy-tweaks-to-make-gimp-replace-photoshop/
+
+Map <control> to <alt> for Mac users?
+
