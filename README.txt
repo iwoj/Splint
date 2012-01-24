@@ -11,7 +11,9 @@ Unfortunately, Gimp is pretty hard to use if you're used to Photoshop. One small
 
 Installation:
 
-On Mac OS X, launch Terminal, go to the directory where you found this README file and run:
+On Mac OS X just double-click the "Install (Mac)" file.
+
+On all other platforms, copy the , launch Terminal, go to the directory where you found this README file and run:
 
   cp -R gimp/* "~/Library/Application Support/Gimp/"
 
