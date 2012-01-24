@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<installer-script minSpecVersion="1.000000" authoringTool="com.apple.PackageMaker" authoringToolVersion="3.0.5" authoringToolBuild="196.1">
+    <title>CreativeSweets</title>
+    <options customize="never" allow-external-scripts="no" rootVolumeOnly="false"/>
+    <domains enable_currentUserHome="true"/>
+    <choices-outline>
+        <line choice="choice0"/>
+    </choices-outline>
+    <choice id="choice0" title="menurc">
+        <pkg-ref id="com.woj.creativesweets.menurc.pkg"/>
+    </choice>
+    <pkg-ref id="com.woj.creativesweets.menurc.pkg" installKBytes="8" version="1.0" auth="Root">file:./Contents/Packages/menurc.pkg</pkg-ref>
+</installer-script>

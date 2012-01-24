@@ -1,0 +1,17 @@
+Title CreativeSweets
+Version
+Description Installs settings for GIMP to emulate the PhotoShop user experience.
+DefaultLocation
+DeleteWarning
+
+### Package Flags
+
+NeedsAuthorization NO
+Required NO
+Relocatable NO
+RequiresReboot NO
+UseUserMask NO
+OverwritePermissions NO
+InstallFat NO
+RootVolumeOnly NO
+OnlyUpdateInstalledLanguages NO
