@@ -23,5 +23,13 @@ Illustrator -> Inkscape
 
   http://inkscape.org/
 
-Coming soon.
+Inkscape contains optional keybindings based on Adobe Illustrator. Simply copy them to your local Inkscape preferences.
+
+On Ubuntu 12.10:
+
+  cp /usr/share/inkscape/keys/adobe-illustrator-cs2.xml ~/.config/inkscape/keys/default.xml
+
+---
+
+A splint can fix a gimped leg.
 
